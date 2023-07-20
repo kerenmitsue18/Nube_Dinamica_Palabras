@@ -12,7 +12,7 @@ Diseñar e implementar una Nube Dinámica de Palabras para ser usada como una he
 - Presentar una metodología para la búsqueda y recolección sistemática de documentos en la plataforma de Twitter.
 - Aplicar la metodología del objetivo anterior para recolectar documentos recientes relacionados con el contexto político mexicano.
 ## Métodología aplicada
-![]https://github.com/kerenmitsue18/Nube_Dinamica_Palabras/blob/main/Metodolog%C3%ADa.png?raw=true)
+![](https://raw.githubusercontent.com/kerenmitsue18/Nube_Dinamica_Palabras/main/Metodolog%C3%ADa.png)
 ## Artículo de CIM 2022
 El trabajo "**Nube dinámica de palabras basada en SenticNet para contexto
 político mexicano "** fue publicado en la revista periódica del "COLOQUIO DE INVESTIGACIÓN MULTIDISCIPLINARIA" Volumen 10. Núm. 1, Octubre 2022. ISSN: 2007 8102
