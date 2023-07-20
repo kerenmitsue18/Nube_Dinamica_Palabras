@@ -11,7 +11,8 @@ Diseñar e implementar una Nube Dinámica de Palabras para ser usada como una he
 - Definir formalmente el concepto de Nube Dinámica de Palabras, en el que se consideran la frecuencia de las palabras, la temporalidad de los documentos que las contienen y su polaridad emocional.
 - Presentar una metodología para la búsqueda y recolección sistemática de documentos en la plataforma de Twitter.
 - Aplicar la metodología del objetivo anterior para recolectar documentos recientes relacionados con el contexto político mexicano.
-- 
+## Métodología aplicada
+![]https://github.com/kerenmitsue18/Nube_Dinamica_Palabras/blob/main/Metodolog%C3%ADa.png?raw=true)
 ## Artículo de CIM 2022
 El trabajo "**Nube dinámica de palabras basada en SenticNet para contexto
 político mexicano "** fue publicado en la revista periódica del "COLOQUIO DE INVESTIGACIÓN MULTIDISCIPLINARIA" Volumen 10. Núm. 1, Octubre 2022. ISSN: 2007 8102
