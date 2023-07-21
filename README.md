@@ -21,11 +21,11 @@ Para el desarrollo del artículo, se utilizó SenticNet, con el objetivo de infe
 
 A continuación se muestra un resumen gráfico de la metodología empleada. 
 
-<img src="https://raw.githubusercontent.com/kerenmitsue18/Nube_Dinamica_Palabras/main/Metodolog%C3%ADa.png" alt="Metodología palicada" width="500px" align="center">
+<img src="https://raw.githubusercontent.com/kerenmitsue18/Nube_Dinamica_Palabras/main/Metodolog%C3%ADa.png" alt="Metodología palicada" width="550px" align="center">
 
 ## Artículo de CIM 2022
-El trabajo "**Nube dinámica de palabras basada en SenticNet para contexto
-político mexicano "** fue publicado en la revista periódica del "COLOQUIO DE INVESTIGACIÓN MULTIDISCIPLINARIA" Volumen 10. Núm. 1, Octubre 2022. ISSN: 2007 8102
+El trabajo "**Nube dinámica de palabras basada en SenticNet para contexto político mexicano "** fue publicado en la revista periódica del "COLOQUIO DE INVESTIGACIÓN MULTIDISCIPLINARIA" Volumen 10. Núm. 1, Octubre 2022. ISSN: 2007 8102
+
 Link de la revista: http://depi.orizaba.tecnm.mx/Journals/Journal_CIM_2022.pdf
 
 ![Artículo CIM 2022](https://github.com/kerenmitsue18/Nube_Dinamica_Palabras/blob/main/Journal_CIM_2022%20Articulo%20Cloud.pdf)
