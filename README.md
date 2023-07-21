@@ -21,7 +21,7 @@ Para el desarrollo del artículo, se utilizó SenticNet, con el objetivo de infe
 
 A continuación se muestra un resumen gráfico de la metodología empleada. 
 
-<img src="https://raw.githubusercontent.com/kerenmitsue18/Nube_Dinamica_Palabras/main/Metodolog%C3%ADa.png" alt="Metodología palicada" width="350px">
+<img src="https://raw.githubusercontent.com/kerenmitsue18/Nube_Dinamica_Palabras/main/Metodolog%C3%ADa.png" alt="Metodología palicada" width="500px" align="center">
 
 ## Artículo de CIM 2022
 El trabajo "**Nube dinámica de palabras basada en SenticNet para contexto
