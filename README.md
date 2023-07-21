@@ -7,6 +7,7 @@ Una de las primeras etapas en el proceso de análisis de sentimientos, consiste 
 
 ## Objetivo general 
 Diseñar e implementar una Nube Dinámica de Palabras para ser usada como una herramienta para la visualización de la evolución de la frecuencia de uso de palabras, y sus polaridades emocionales respecto al tiempo, mediante el modelo sentimental del marco de trabajo SenticNet.
+
 #### Objetivos específicos
 - Definir formalmente el concepto de Nube Dinámica de Palabras, en el que se consideran la frecuencia de las palabras, la temporalidad de los documentos que las contienen y su polaridad emocional.
 - Presentar una metodología para la búsqueda y recolección sistemática de documentos en la plataforma de Twitter.
@@ -14,11 +15,13 @@ Diseñar e implementar una Nube Dinámica de Palabras para ser usada como una he
 
 ## Métodología aplicada
 Se utilizó el API Rest que proporciona Twitter cuando se genera una cuenta como desarrollador, para permitir el acceso al núcleo de datos y acceder a los tweets recientes. Así mismo, se utilizó la biblioteca Tweepy que contiene
-la interfaz Cursor para iterar a través de distintos tipos de objetos (usualmente representados como objetos JSON). Para el desarrollo del artículo, se utilizó SenticNet, con el objetivo de inferir la polaridad de las opiniones. SenticNet consta de un extractor de conceptos y de una biblioteca con hasta 14,000 conceptos clasificados según su positividad o negatividad, el resultado es un número flotante entre -1 y +1 (donde -1 es
-negatividad extrema y +1 es positividad extrema). 
+la interfaz Cursor para iterar a través de distintos tipos de objetos (usualmente representados como objetos JSON).
+
+Para el desarrollo del artículo, se utilizó SenticNet, con el objetivo de inferir la polaridad de las opiniones. SenticNet consta de un extractor de conceptos y de una biblioteca con hasta 14,000 conceptos clasificados según su positividad o negatividad, el resultado es un número flotante entre -1 y +1 (donde -1 es negatividad extrema y +1 es positividad extrema). 
+
 A continuación se muestra un resumen gráfico de la metodología empleada. 
 
-![](https://raw.githubusercontent.com/kerenmitsue18/Nube_Dinamica_Palabras/main/Metodolog%C3%ADa.png)
+![Metodología aplicada](https://raw.githubusercontent.com/kerenmitsue18/Nube_Dinamica_Palabras/main/Metodolog%C3%ADa.png){:width="250px"}
 ## Artículo de CIM 2022
 El trabajo "**Nube dinámica de palabras basada en SenticNet para contexto
 político mexicano "** fue publicado en la revista periódica del "COLOQUIO DE INVESTIGACIÓN MULTIDISCIPLINARIA" Volumen 10. Núm. 1, Octubre 2022. ISSN: 2007 8102
