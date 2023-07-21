@@ -20,7 +20,7 @@ la interfaz Cursor para iterar a través de distintos tipos de objetos (usualmen
 Para el desarrollo del artículo, se utilizó SenticNet, con el objetivo de inferir la polaridad de las opiniones. SenticNet consta de un extractor de conceptos y de una biblioteca con hasta 14,000 conceptos clasificados según su positividad o negatividad, el resultado es un número flotante entre -1 y +1 (donde -1 es negatividad extrema y +1 es positividad extrema). 
 
 A continuación se muestra un resumen gráfico de la metodología empleada. 
-<img src="ruta/a/la/imagen.png" alt="Metodología palicada" width="200px">
+<img src="[ruta/a/la/imagen.png](https://raw.githubusercontent.com/kerenmitsue18/Nube_Dinamica_Palabras/main/Metodolog%C3%ADa.png)" alt="Metodología palicada" width="200px">
 
 ## Artículo de CIM 2022
 El trabajo "**Nube dinámica de palabras basada en SenticNet para contexto
