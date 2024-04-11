@@ -1,4 +1,4 @@
-# Nbe dinámica de palabras
+# Nube dinámica de palabras
 Implementación de una nube dinámica de palabras, aplicada a un contexto político mexicano.
 ## Resumen
 Una de las primeras etapas en el proceso de análisis de sentimientos, consiste en un estudio exploratorio de los documentos. La nube de palabras es una de las herramientas más usadas para la visualización resumida de estos datos. Una de las principales desventajas de las nubes de palabras comunes, es que no permitern visualizar los cambios en la polaridad de las opiniones durante el tiempo; tampoco  consideran teorías emocionales para una mejor compresión del fenómeno a estudiar. En este artículo se propone una modificaciíon gráfica de la dinámica de la evolución de la frecuencia y polaridad de palabras en documentos. Como caso de estudiop, se aplicó al contexto político mexicano actual. 
